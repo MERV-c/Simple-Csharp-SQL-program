@@ -1,0 +1,13 @@
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\obj\Debug\DataBaseProject.csproj.AssemblyReference.cache
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\obj\Debug\DataBaseProject.csproj.SuggestedBindingRedirects.cache
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\obj\Debug\DataBaseProject.Dashboard.resources
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\obj\Debug\DataBaseProject.Properties.Resources.resources
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\bin\Debug\Database1.mdf
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\bin\Debug\Database1_log.ldf
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\bin\Debug\DataBaseProject.exe.config
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\bin\Debug\DataBaseProject.exe
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\bin\Debug\DataBaseProject.pdb
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\obj\Debug\DataBaseProject.exe
+D:\GitHub Repos\CsharpSQLSimple\Simple-Csharp-SQL-program\obj\Debug\DataBaseProject.pdb
